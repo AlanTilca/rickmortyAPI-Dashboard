@@ -11,7 +11,7 @@ API connection practice for a Dashboard on Power BI.
 
 - [Python API connection](https://github.com/AlanTilca/rickmortyAPI-Dashboard/blob/main/api.ipynb)
 
-- [Chatacters dataset](https://github.com/AlanTilca/rickmortyAPI-Dashboard/blob/main/dataset/character_list.csv)
+- [Characters dataset](https://github.com/AlanTilca/rickmortyAPI-Dashboard/blob/main/dataset/character_list.csv)
 
 
 ## Acknowledgements
